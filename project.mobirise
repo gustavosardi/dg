@@ -86,7 +86,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/home-6-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/home-7-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -137,7 +137,7 @@
           "title": "CONTACT FORM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
           "form": {
-            "action": "designbygus@gmail.com",
+            "action": "danieln1@live.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
