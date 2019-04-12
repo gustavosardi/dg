@@ -5,14 +5,15 @@
     "theme": {
       "name": "default",
       "title": "Mobirise",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 7,
+    "uniqCompNum": 9,
     "versionPublish": "4.9.6"
   },
   "pages": {
@@ -106,6 +107,18 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
           "_anchor": "header4-6"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "BRAKE SERVICE • CODE SCAN • VEHICLE INSPECTION • ENGINE SERVICE • RADIATOR SERVICE • BELT &amp; HOSES • SHOCKS &amp; STRUTS • AC SERVICE-FREE CHECK UP",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8"
         },
         {
           "_params": {
