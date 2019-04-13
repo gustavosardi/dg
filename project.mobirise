@@ -154,7 +154,7 @@
           "price2": "40",
           "period2": "",
           "list2": "<ul><li><b>Refrigerant Check</b></li><li><b>System Inspection</b></li><li><br></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">APPOINTMENT</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-4\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">APPOINTMENT</a>",
           "title3": "PREMIUM",
           "currency3": "$",
           "price3": "0",
