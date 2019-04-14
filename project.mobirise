@@ -13,7 +13,7 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "uniqCompNum": 19,
+    "uniqCompNum": 20,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -452,7 +452,7 @@
               "text": "I took my car in because the engine light came on. They diagnosed it correctly and proceeded to make the minor repair tat was causing it."
             },
             {
-              "authorName": "JHOLLMAN C.",
+              "authorName": "Janine Lynn",
               "authorBio": "User",
               "text": "<p class=\"mbr-reviews__p\">My ac wasn't cooling properly. i had it checked and all it needed was some refrigerant. They checked the whole system and now it's running great!</p>"
             }
@@ -472,64 +472,6 @@
           ],
           "_name": "map1",
           "_anchor": "map1-5"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showName": true,
-            "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "WHAT OUR FANTASTIC USERS SAY",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-h",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>"
-            }
-          ]
         }
       ]
     }
