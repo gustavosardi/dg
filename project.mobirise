@@ -260,8 +260,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/20190413-110324-2000x972.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-110324-2000x972-800x388.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190413-110325-2000x972.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190413-110325-2000x972-800x388.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -305,7 +305,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440.jpg",
@@ -313,23 +313,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-105546-2000x972.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-105546-2000x972-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-105453-2000x972.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-105453-2000x972-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20190413-110323-2000x972.jpg",
