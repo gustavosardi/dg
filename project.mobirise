@@ -305,31 +305,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190412-202233-1-699x1440-699x1440.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-105453-1960x4032.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-105453-1960x4032-800x1646.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20190413-110323-2000x972.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190413-110323-2000x972-800x389.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -383,7 +359,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/vruod5mjcqU",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
