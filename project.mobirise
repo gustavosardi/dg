@@ -14,7 +14,8 @@
     "favicon": "",
     "noImageResize": "",
     "uniqCompNum": 15,
-    "versionPublish": "4.9.6"
+    "versionPublish": "4.9.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -256,7 +257,7 @@
                 "alt": "",
                 "title": "aaaaaaa",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190412-202205-1-1600x777.jpg",
@@ -321,6 +322,22 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190413-105546-2000x972.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190413-105546-2000x972-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20190413-110323-2000x972.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190413-110323-2000x972-800x389.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
